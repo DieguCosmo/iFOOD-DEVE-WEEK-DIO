@@ -1,3 +1,1 @@
-okey.. funcionando?
-
-e por ai, no git?
+Só alinhando, e tudo ok!
